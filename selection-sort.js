@@ -18,7 +18,6 @@ function selectionSort(array) {
     return arr;
 }
 
-// Exemplo de uso
 const unsortedArray = [38, 27, 43, 3, 9, 82, 10];
 const sortedArray = selectionSort(unsortedArray);
 
